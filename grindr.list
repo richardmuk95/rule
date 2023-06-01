@@ -1,0 +1,10 @@
+# Grindr分流规则
+
+# Grindr主域名
+DOMAIN-KEYWORD,grindr
+
+# Sift欺诈防护
+DOMAIN-SUFFIX,siftscience.com
+
+# Google Analytics
+DOMAIN-SUFFIX,app-measurement.com
